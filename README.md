@@ -1,3 +1,3 @@
 # Basic-LED-Blink
 
-![Image of the circuit](blink.png.JPG)
+![Image of the circuit](blink.JPG)
