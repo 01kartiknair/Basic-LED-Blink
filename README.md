@@ -6,4 +6,4 @@
 
 <h1>Component List:</h1>
 
-![Image of the circuit](components.JPG)
+![Component List](components.png)
